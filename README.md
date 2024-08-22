@@ -9,4 +9,7 @@
 <!---
 Jatin-dev12/Jatin-dev12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+With This Commands you will change git user name and email
+git config --global user.name "newemail"
+git config --global user.email "newemail@example.com"
 --->
