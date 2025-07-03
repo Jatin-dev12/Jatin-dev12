@@ -6,7 +6,7 @@
 - 😄 Pronouns: jatin ...
 - ⚡ Fun fact: i am very curious and calm person ...
 
-My Skils [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,dotnet,mongodb,mysql,react,redux,nextjs,nodejs,php,wordpress,webflow)]([https://skillicons.dev](https://sehgal.netlify.app/))
+My Skils [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,dotnet,mongodb,mysql,react,redux,nextjs,nodejs,php,wordpress,webflow)]([https://sehgal.netlify.app/])
 
 <!---
 Jatin-dev12/Jatin-dev12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
